@@ -1,0 +1,3925 @@
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+M	qsort-c.c
+Your branch is up to date with 'origin/master'.
+[master 297463d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 41 insertions(+), 14 deletions(-)
+ rewrite qsort-asm.s (98%)
+M	qsort-asm.s
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+[master 2fd2034] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+[master cb877dd] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 40 deletions(-)
+ rewrite qsort-asm.s (100%)
+M	qsort-asm.s
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+[master c16938d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 96 insertions(+)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master e9af2e5] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 3 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 93366b6] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 2db67e4] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 848ee3c] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 445bf43] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+), 12 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 36abea5] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master d815342] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master a742a19] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 98826e9] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 02509db] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 512f828] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 82c7100] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 8f76b8d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master fc41896] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 4 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 3d86339] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master e16b68d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master ad9cbef] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 7e0a984] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master da2d341] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master ce6dcb7] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master b9d0525] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 5fbdc91] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 4be829d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 1414894] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 4 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 062dbb7] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master a98d7b3] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 7 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master ebd0b5d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 9 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 6f172f3] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 4 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 59da7e6] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 4 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 9a8ac72] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master ec3e4b3] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 8 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master b15bed9] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master c8532be] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 5f2917c] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master c403949] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 8 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 9920d18] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master b11df7b] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 42ae6b3] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 4 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master aacc500] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 40a95c5] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 64f9b97] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master fa47a68] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 6d10fb5] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 10 insertions(+), 10 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 298303a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 12 insertions(+), 10 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master a2a95e2] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 22 insertions(+), 21 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 8819898] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 20 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 74ac973] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 10 insertions(+), 10 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 3d7342f] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 10 insertions(+), 10 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 5f2ad98] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master ed40462] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 5 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master e7ad3c3] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 1b8adf6] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 4 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master dbede98] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 0fb7758] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 33481ce] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 33c492a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master e26a7fa] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 10 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 2edd7d1] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 5752877] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 1b4293a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 968b199] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 83bb9d3] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 8 insertions(+), 8 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 249e8e3] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 632975d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 11 insertions(+), 6 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master b6aaea0] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 4bfe3ba] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 85e60de] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+), 22 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 9003d2e] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master fcb9da9] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 29 insertions(+), 36 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 459975f] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 81d0b40] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 20 insertions(+), 20 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 4276a03] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 81d97db] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master aef15a1] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master bbdb8e1] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 15 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master e6e973f] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 9 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master c5c50a7] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 9 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 658c9ed] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master fba76dd] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 10 insertions(+), 9 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 5a3b4fc] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 4cdb199] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 12 insertions(+), 6 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master b9e8132] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master ef1601c] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 6 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 2e7ef86] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 284173a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master c124201] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 244438a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 14 insertions(+), 7 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 8b63445] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 4dc3827] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 74233ec] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 13 insertions(+), 13 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 7216468] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 736db77] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 58a9bc8] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 01b349a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 795b92d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 2d2a890] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 20 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master c7162b1] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 9b0c8c1] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master b74ef20] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master a4f4c1f] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 77e88c9] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master f02e7ed] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 9d1528d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master f2faf89] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master e62a3f4] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 6693f5d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 84a65ea] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master b3e7d0d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 11 insertions(+), 8 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 76908cc] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 8e4a5a8] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 9 insertions(+), 4 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master c9c3b5f] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 4969c11] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master e29fab8] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 880e684] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 3 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 94e2a4a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 014e94a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 450cd6e] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 763a129] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master e1f475f] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master b0dbcd4] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 487d2bf] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 6aa2fab] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master e9db249] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master fe5c8e3] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 8 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 8e54b27] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 92a55b3] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master cfb1d71] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 7260a89] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master b40993c] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 2f0fd56] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 4d2225f] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 3e98a58] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 0a7058b] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 763d794] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 530f0b6] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 7c28198] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master fd9ae3c] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 1de7778] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 6da7f06] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 12 insertions(+), 17 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 25b6948] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 9 insertions(+), 9 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master c310995] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master db38013] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master e874b5d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master fc73532] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 00a6df4] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 20e81a2] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master e0eee7c] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 8a23f9d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 029acaa] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 44422cd] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master b9d6adc] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 6000f21] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 4faabea] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 24c1e14] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 15 insertions(+), 15 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master e9ea807] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master d57f35f] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 10 insertions(+), 10 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 38ebb5b] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 2ee064a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 15 insertions(+), 15 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 970265a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 13 insertions(+), 13 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 2c393bc] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 3b115c0] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 6292455] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 599a6a8] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 10 insertions(+), 10 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 033c0c9] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 3b89dc9] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 2 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 9a13d25] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 15 insertions(+), 14 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 4592338] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 16 insertions(+), 8 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 230e317] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 8 insertions(+), 16 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 9e3e4d8] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 17 insertions(+), 7 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master b2e1fca] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 1fbf69d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 9d4d24c] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 7 deletions(-)
+M	qsort-asm.s
+M	qsort-test
+Your branch is up to date with 'origin/master'.
+[master 6fd0c02] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 9 deletions(-)
+D	qsort-test
+Your branch is up to date with 'origin/master'.
+[master a53f416] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100755 qsort-test
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 5901865] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master a53e8c9] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 367f7e7] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 0aed829] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master ad635e6] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master acc3679] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 7 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038061600002096
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+	.nfs00000000003809f200002097
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 30e7d4d] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master c4b81f0] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038061600002096
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+	.nfs00000000003809f200002097
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038061600002096
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+	.nfs00000000003809f200002097
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038061600002096
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+	.nfs00000000003809f200002097
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master d6e6a8c] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master fa3ac37] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 264e4ec] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038061600002096
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+	.nfs00000000003809f200002097
+	.nfs0000000000380a0400002099
+	.nfs0000000000380a0b0000209b
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038061600002096
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+	.nfs00000000003809f200002097
+	.nfs0000000000380a0400002099
+	.nfs0000000000380a0b0000209b
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038061600002096
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+	.nfs00000000003809f200002097
+	.nfs0000000000380a0400002099
+	.nfs0000000000380a0b0000209b
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	.nfs000000000038060f00002092
+	.nfs000000000038061600002096
+	.nfs000000000038095f00002086
+	.nfs000000000038096500002087
+	.nfs000000000038096b0000208a
+	.nfs000000000038096c0000208b
+	.nfs00000000003809770000208d
+	.nfs00000000003809900000208e
+	.nfs00000000003809ba0000208f
+	.nfs00000000003809be00002091
+	.nfs00000000003809f200002097
+	.nfs0000000000380a0400002099
+	.nfs0000000000380a0b0000209b
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Optimization.docx
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Optimization.docx
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Optimization.docx
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 585e76a] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 42 insertions(+), 54 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Optimization.docx
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Optimization.docx
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Optimization.docx
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 2bdfc32] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 53 insertions(+), 41 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Optimization.docx
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Optimization.docx
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Optimization.docx
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Optimization.docx
+	qsort-test
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 1b801cc] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master cdf9557] \Commit qsort\
+ Committer: Haohan Wu <wu1669@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+M	qsort-asm.s
+Your branch is up to date with 'origin/master'.
+[master 5b8034e] \Commit qsort\
+ Committer: Haohan Wu <wu1669@borg03.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 7 deletions(-)
